@@ -2,7 +2,7 @@ These are my notes on the project task page. This project is called "World Cup D
 
 About this guided project:
 	-> We are creating a Bash script
-	-> The Bash script is entering information from World Cup games into PostgresSQL
+	-> The Bash script is entering information from World Cup games into PostgreSQL
 	-> Then we are going to query the database for summary statistics, et al 
 	-> The aim is, we have World Cup data
 	-> We want a Bash script which takes it and extracts summary statistics et al 
@@ -11,8 +11,8 @@ About this guided project:
 
 To run the project:
 	-> Clone the project Gitpod boilerplate files
-	-> You have to do the project in one go, or the progress could be lost	
-	-> You need a stable WiFi connection when doing this, or it could cut out half way through and your progress could be lost
+	-> You have to do the project in one go, or the progress could be lost
+	-> You need a stable WiFi connection when doing this, or it could cut out halfway through and your progress could be lost
 	-> Run the CodeRoad extension in the command palette in VSCode
 		-> Enter the command palette (command shift p)
 		-> Then CodeRoad: Start
@@ -21,7 +21,7 @@ To run the project:
 	-> This is more complex than the previous project -> the previous one was split into two repositories  
 
 To submit the project:
-	-> You are submitting the sql file you create as part of the project
+	-> You are submitting the SQL file you create as part of the project
 	-> You need to run a database dump for this 
 	-> There are instructions in the VM on how to do this 
 	-> You need to do it all in one go, or the project progress could be lost and you will have to start it again
