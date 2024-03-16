@@ -31,3 +31,8 @@ To submit the project:
 	-> Execute a database dump, and then upload the files to a GitHub repository for the project
 	-> Then submit the link to that repository for the project 
 	-> So we first want to complete the project in Gitpod, and then submit the link to the project repository with the files which this produces 
+
+-> These are the files they want in that repository, to be produced as part of the project:
+	-> worldcup.sql
+	-> insert_data.sh
+	-> queries.sh
